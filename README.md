@@ -4,7 +4,7 @@
 ### [Live Site](https://covid19statswebsite.netlify.com/)
 
 ## Introduction
-I used React, Charts.JS and Material UI.
+I used React.js, Charts.JS and Material UI.
 
 API used: https://covid19.mathdro.id/api
 
