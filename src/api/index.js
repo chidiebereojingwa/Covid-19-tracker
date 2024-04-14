@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const url = 'https://covid19.mathdro.id/api';
+// const url = 'https://covid19.mathdro.id/api';
+const url = ''https://covid-193.p.rapidapi.com';
 
 export const fetchData = async (country) => {
   let changeableUrl = url;
